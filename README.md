@@ -1,2 +1,2 @@
 My first readme
-Cool programming
+Cool programs
